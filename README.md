@@ -3,7 +3,7 @@ CS-230-R1819 Operating Platforms 23EW1
 Chris Marrs
 10/15/2023
 
-*Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?*
+_Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?_
 The client, The Gaming Room, has requested a web-based version of their gaming app.
 Draw It or Lose It is loosely similar to the 1980s television game Win, Lose or Draw, where teams compete to guess what is being drawn. 
 The game app will have the ability to have one or more teams involved. Each team will have multiple players assigned to it. Game and team names must be unique to allow users to check whether a name is in use when choosing a team name. Only one instance of the game can exist in memory at any given time. This can be accomplished by creating unique identifiers for each instance of a game, team, or player.
