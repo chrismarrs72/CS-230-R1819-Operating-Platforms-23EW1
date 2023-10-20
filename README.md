@@ -3,6 +3,7 @@ CS-230-R1819 Operating Platforms 23EW1
 Chris Marrs
 10/15/2023
 
+###Journal###<br>
 _Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?_  
 <br>
 The client, The Gaming Room, has requested a web-based version of their gaming app.  
